@@ -22,6 +22,8 @@
 **Notes:** Created listening post on [Maires](Places.md#Maires) to spy on Admiral Corlen and embedded a spy posing a mechanic on [Martle Station](Places.md#Martle%20Station).
 ## Varla Purle
 **Rank/Title:** Assistant to the Governor on [Martle Station](Places.md#Martle%20Station)
+## Ian Valras
+**Notes:** Sent by [Moff Dardano](#Moff%20Dardano) as a spy for unknown reasons to [Martle Station](Places.md#Martle%20Station). Posing as a mechanic.
 # Unaffiliated/Unknown
 ## Reg
 **Species:** Human  
